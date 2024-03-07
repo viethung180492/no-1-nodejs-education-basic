@@ -1,0 +1,17 @@
+// step 1 init
+npm init
+
+// step 2 express
+npm install express --save-dev
+
+// step 3 body-parser
+npm install body-parser --save-dev
+
+// step 4 mongo
+npm install mongoose --save-dev
+
+// 
+https://www.postman.com/
+
+// buid app online
+https://www.typescriptlang.org/play
